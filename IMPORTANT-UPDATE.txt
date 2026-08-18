@@ -1,0 +1,6 @@
+LUMI PROTOTYPE UPDATE v0.2
+This project uses the SAME package name and prototype signing key as the prepared Lumi Base v0.1 project.
+Version code: 2
+Version name: 0.2.0-update
+When built, Android should offer UPDATE instead of a second installation, provided the installed base was built from the matching signed base package.
+Existing SharedPreferences data such as prototype memories, filter selection, and Lumi PIN remain unless the app is uninstalled or data is cleared.
